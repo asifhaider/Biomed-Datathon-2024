@@ -1,4 +1,5 @@
-# Biomed-Datathon-2024
+# Leveraging Classic and Modern Learning Techniques for Heart Disease Prediction from Heart Sound Data
+### Biomed Datathon 2024
 
 This is the solution repository of team Cookie Monsters for Biomed Datathon 2024 organized by mHealth Lab, Department of BME, BUET. Find the third-place winning solution notebooks and presentation slides in the repository. 
 
